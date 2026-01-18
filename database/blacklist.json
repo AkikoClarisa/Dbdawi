@@ -1,3 +1,9 @@
-/* ISI DALAM GITHUB ( USER.JSON BEBAS YANG PENTING KAU COCOK KAN SAMA CODE LAIN NYA */
-
-[]
+{
+  "list": [
+    {
+      "token": "8283354829:AAFdlWK7Lni0OYp4wSKSMxLlWDIi2b28vms",
+      "reason": "Wrong password attempt",
+      "time": "2026-01-18T23:01:59.371Z"
+    }
+  ]
+}
