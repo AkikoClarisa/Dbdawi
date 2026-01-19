@@ -1,14 +1,7 @@
-{
-  "list": [
-    {
-      "token": "8283354829:AAFdlWK7Lni0OYp4wSKSMxLlWDIi2b28vms",
-      "reason": "Wrong password attempt",
-      "time": "2026-01-18T23:01:59.371Z"
-    },
-    {
-      "token": "8464804580:AAFCQHhd9Vac7Fu8r2_VBAtAB5WkzhlUTCI",
-      "reason": "Wrong password attempt",
-      "time": "2026-01-19T00:08:08.771Z"
-    }
-  ]
-}
+[
+  {
+    "token": "8464804580:AAFCQHhd9Vac7Fu8r2_VBAtAB5WkzhlUTCI",
+    "reason": "Wrong password attempt",
+    "time": "2026-01-19T00:11:22.145Z"
+  }
+]
